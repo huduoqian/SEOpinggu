@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python Version">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs Welcome">
-  <img src="https://img.shields.io/github/stars/yourusername/SEOpinggu?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/huduoqian/SEOpinggu?style=social" alt="GitHub Stars">
 </div>
 
 ---
