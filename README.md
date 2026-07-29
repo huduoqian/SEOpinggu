@@ -13,6 +13,6 @@
 ## 🛠 安装
 
 ```bash
-git clone https://github.com/你的用户名/SEOpinggu.git
+git clone https://github.com/huduoqian/SEOpinggu.git
 cd SEOpinggu
 pip install -r requirements.txt
