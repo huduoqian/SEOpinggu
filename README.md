@@ -60,5 +60,5 @@
 
 ### 1. 克隆到本地
 ```bash
-git clone https://github.com/yourusername/SEOpinggu.git
+git clone https://github.com/huduoqian/SEOpinggu.git
 cd SEOpinggu
